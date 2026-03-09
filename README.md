@@ -4,7 +4,7 @@
 I am a technical professional with an academic background in Physics and Mathematics & Statistics, currently transitioning into Data Science and Quantitative Analysis. My work bridges the gap between complex physical phenomena—e.g., Martian mineralogy and XRF Spectroscopy Analysis—and actionable data insights through Python-driven modeling and statistical analysis.
 
 ## 🔭 I’m currently working on...
-- <b> National Park Biodiversity Analysis </b>: Developing a comprehensive suite of visualizations to identify ecological specialization and conservation priorities across the U.S. National Park system.
+- <b> National Park Biodiversity Analysis </b>: Developing visualizations to identify ecological specialization and conservation priorities across U.S. National Park system.
 - <b> Mars Mineralogy Research </b>: Refining characterization techniques for Martian mineral compositions using PIXL XRF scans from the Jezero Crater.
 - <b> Biodiversity Modeling </b>: Optimizing large-scale Python scripts for species frequency analysis and population density metrics.
 
