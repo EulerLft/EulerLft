@@ -7,9 +7,9 @@ I am a technical professional with an academic background in Physics and Mathema
 He/Him/His
 
 ## 🔭 I’m currently working on...
-- ProTennis Predictive Modeling: Developed a Multiple Linear Regression system to analyze ATP player statistics, achieving an $R^2$ of 0.83 in predicting player winnings. Features a modular Python engine with automated experiment tracking. [View Repository](https://github.com/EulerLft/ProTennis-Predictive-Modeling) 
-- <b> National Park Biodiversity Analysis </b>: Developing visualizations to identify ecological specialization and conservation priorities across U.S. National Park system. [View Repository](https://github.com/EulerLft/National-Park-Biodiversity)
-- <b> Mars Mineralogy Research </b>: Refining characterization techniques for Martian mineral compositions using PIXL XRF scans from the Jezero Crater.
+- <b>ProTennis Predictive Modeling</b>: Developed a Multiple Linear Regression system to analyze ATP player statistics, achieving an $R^2$ of 0.83 in predicting player winnings. Features a modular Python engine with automated experiment tracking. [View Repository](https://github.com/EulerLft/ProTennis-Predictive-Modeling) 
+- <b>National Park Biodiversity Analysis</b>: Developing visualizations to identify ecological specialization and conservation priorities across U.S. National Park system. [View Repository](https://github.com/EulerLft/National-Park-Biodiversity)
+- <b>Mars Mineralogy Research</b>: Refining characterization techniques for Martian mineral compositions using PIXL XRF scans from the Jezero Crater.
 
 ## 🌱 I’m currently learning...
 - Advanced SQL for relational database management and complex querying.
