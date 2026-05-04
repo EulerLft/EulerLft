@@ -54,8 +54,8 @@ Developed a Multiple Linear Regression system to analyze ATP player statistics, 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sal-fernandez-085a27147/) or reach out through my professional email for collaborative technical projects.
 
 ## ⚡ Fun fact
-- Special Interests: Quantum Computing, Cryptography, and Quantitative Finance. \
-- Spare Time: I tutor students in Advanced Functions, Calculus, and Physics, helping bridge the gap between abstract theory and real-world application.
+- <b>Special Interests</b>: Quantum Computing, Cryptography, and Quantitative Finance. 
+- <b>Spare Time</b>: I tutor students in Advanced Functions, Calculus, and Physics, helping bridge the gap between abstract theory and real-world application.
 
 <!--
 **EulerLft/EulerLft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
