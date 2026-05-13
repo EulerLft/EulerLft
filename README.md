@@ -25,7 +25,8 @@ Architected automated ETL pipeline and developed the "MIP_SF" algorithm to autom
 - <b>Technical Highlight</b>: Achieved 1:1 correlation with NASA's MIST algorithm for primary igneous mineral detection.
 
 ### 💳 [Credit Risk Decision Engine]([https://github.com/EulerLft/Census-Income-Classification-Logistic-Regression-with-L1-Regularization](https://github.com/EulerLft/credit-risk-decision-engine))
-**[Live Predictor App](https://credit-risk-engine-eulerlft.streamlit.app/)** | **[Interactive Tableau Dashboard (https://public.tableau.com/app/profile/sal.fernandez/viz/CreditRiskAnalysis_17785991409790/CreditRiskAnalysis#1)** \
+**[Live Predictor App](https://credit-risk-engine-eulerlft.streamlit.app/)** | 
+**[Interactive Tableau Dashboard] ([https://public.tableau.com/app/profile/sal.fernandez/viz/CreditRiskAnalysis_17785991409790/CreditRiskAnalysis#1](https://public.tableau.com/app/profile/sal.fernandez/viz/CreditRiskAnalysis_17785991409790/CreditRiskAnalysis))** \
 Architected an end-to-end ML pipeline to identify high-risk loan applicants. Engineered a modular Python engine optimized for high recall and integrated a BI layer for stakeholder reporting.
 - **The Challenge**: Balancing model accuracy with the financial necessity of capturing 80%+ of potential defaults.
 - **The Solution**: Implemented a SQL-to-Python ETL pipeline and utilized `GridSearchCV` to optimize a weighted Logistic Regression model.
