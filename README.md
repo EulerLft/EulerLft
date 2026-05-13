@@ -18,14 +18,14 @@ He/Him/His
 
 ## 🔭 Featured Projects
 ### 🚀 [Mars 2020 Mineral Classifier](https://github.com/EulerLft/Mars2020-Mineral-Classifier)
-**[Live Mineral Classification App](https://mars2020-mineral-classifier-apwekg58ujsjzmdutvh7zf.streamlit.app/)**
+**[Live Mineral Classification App](https://mars2020-mineral-classifier-apwekg58ujsjzmdutvh7zf.streamlit.app/)** \
 Architected automated ETL pipeline and developed the "MIP_SF" algorithm to automate stoichiometric classification of 36,000+ high-dimensional scans from the Perseverance rover. Engineered a cloud-integrated Streamlit dashboard for real-time telemetry visualizations.
 - <b>The Challenge</b>: Transitioning planetary science data from static local files to a dynamic, interactive research environment.
 - <b>The Solution</b>: Engineered a cloud-integrated Streamlit platform that communicates with remote GitHub repositories to process JSON/CSV datasets and render interactive visualizations in real-time.
 - <b>Technical Highlight</b>: Achieved 1:1 correlation with NASA's MIST algorithm for primary igneous mineral detection.
 
 ### 💳 [Credit Risk Decision Engine]([https://github.com/EulerLft/Census-Income-Classification-Logistic-Regression-with-L1-Regularization](https://github.com/EulerLft/credit-risk-decision-engine))
-**[Live Predictor App](https://credit-risk-engine-eulerlft.streamlit.app/)** | **[Interactive Tableau Dashboard (https://public.tableau.com/app/profile/sal.fernandez/viz/CreditRiskAnalysis_17785991409790/CreditRiskAnalysis#1)**
+**[Live Predictor App](https://credit-risk-engine-eulerlft.streamlit.app/)** | **[Interactive Tableau Dashboard (https://public.tableau.com/app/profile/sal.fernandez/viz/CreditRiskAnalysis_17785991409790/CreditRiskAnalysis#1)** \
 Architected an end-to-end ML pipeline to identify high-risk loan applicants. Engineered a modular Python engine optimized for high recall and integrated a BI layer for stakeholder reporting.
 - **The Challenge**: Balancing model accuracy with the financial necessity of capturing 80%+ of potential defaults.
 - **The Solution**: Implemented a SQL-to-Python ETL pipeline and utilized `GridSearchCV` to optimize a weighted Logistic Regression model.
