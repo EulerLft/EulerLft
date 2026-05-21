@@ -18,7 +18,7 @@ He/Him/His
 
 ## 🔭 Featured Projects
 ### 🚀 [Mars 2020 Mineral Classifier](https://github.com/EulerLft/Mars2020-Mineral-Classifier)
-**[Live Mineral Classification App]([https://mars2020-mineral-classifier-apwekg58ujsjzmdutvh7zf.streamlit.app/](https://mars2020-mineral-classifier.streamlit.app/))** \
+**[Live Mineral Classification App](https://mars2020-mineral-classifier.streamlit.app/)** \
 Architected automated ETL pipeline and developed the "MIP_SF" algorithm to automate stoichiometric classification of 36,000+ high-dimensional scans from the Perseverance rover. Engineered a cloud-integrated Streamlit dashboard for real-time telemetry visualizations.
 - <b>The Challenge</b>: Transitioning planetary science data from static local files to a dynamic, interactive research environment.
 - <b>The Solution</b>: Engineered a cloud-integrated Streamlit platform that communicates with remote GitHub repositories to process JSON/CSV datasets and render interactive visualizations in real-time.
