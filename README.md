@@ -7,7 +7,7 @@ Most recently, as a Graduate Researcher at the University of Guelph, I engineere
 
 I thrive at the intersection of backend architecture, mathematical rigor, and technical storytelling.
 
-## 😄 Pronouns
+## Pronouns
 He/Him/His
 
 ## 🛠️ Technical Skills
