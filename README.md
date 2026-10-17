@@ -1,4 +1,4 @@
-# Sal Fernandez | Physicist & Data Engineer
+# Sal Fernandez | Physics & Data Engineer
 ### ETL Pipelines | Predictive Modeling | Full-Stack Research Tools
 ## Hi there 👋
 I am a mathematical physicist and technical builder specializing in architecting the infrastructure required to translate complex physical phenomena — such as Martian mineralogy and XRF Spectroscopy — into actionable data insights.
