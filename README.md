@@ -1,7 +1,7 @@
 # Sal Fernandez | Physics & Data Engineer
 ### ETL Pipelines | Predictive Modeling | Full-Stack Research Tools
 ## Hi there 👋
-I am a mathematical physicist and technical builder specializing in architecting the infrastructure required to translate complex physical phenomena — such as Martian mineralogy and XRF Spectroscopy — into actionable data insights.
+I have a mathematical physicist and experience architecting the infrastructure required to translate complex physical phenomena — such as Martian mineralogy and XRF Spectroscopy — into actionable data insights.
 
 Most recently, as a Graduate Researcher at the University of Guelph, I engineered automated ETL pipelines to process 36,000+ high-dimensional scans from the Mars Perseverance rover. By developing the "MIP_SF" algorithm and a cloud-integrated Streamlit platform, I streamlined scientific workflows and eliminated over 600 hours of manual processing time.
 
